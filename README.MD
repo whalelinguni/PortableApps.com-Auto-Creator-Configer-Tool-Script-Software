@@ -37,7 +37,9 @@ A demo template is included for refrence or modification.
 	
 # Known disshues:
 - Versioning app to app may not set correct number of decimals. 
+
 -- PackageVersion needs 4 decimal places X.X.X.X
+
 -- DisplayVersion needs 3 decimal places X.X.X
 	
 - Should really add a confirm before luanching the script after a directory is selected. 
