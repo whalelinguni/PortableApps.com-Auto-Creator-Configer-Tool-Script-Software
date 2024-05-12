@@ -41,3 +41,5 @@ A demo template is included for refrence or modification.
 -- DisplayVersion needs 3 decimal places X.X.X
 	
 - Should really add a confirm before luanching the script after a directory is selected. 
+
+- code is a total mess. I came back and fourth to writing this and well.... weed, what can you do.
